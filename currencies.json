@@ -10,7 +10,11 @@
         "code": "AED",
         "country": "AE",
         "country_name": "United Arab Emirates",
-        "exchange_rate": 1.16
+        "exchange_rate": 3.67293,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Afghan Afghani",
@@ -23,7 +27,11 @@
         "code": "AFN",
         "country": "AF",
         "country_name": "Afghanistan",
-        "exchange_rate": 23.1629392971246
+        "exchange_rate": 70.084074,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Albanian Lek",
@@ -36,7 +44,11 @@
         "code": "ALL",
         "country": "AL",
         "country_name": "Albania",
-        "exchange_rate": 30.437089776357826
+        "exchange_rate": 90.1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Armenian Dram",
@@ -49,7 +61,11 @@
         "code": "AMD",
         "country": "AM",
         "country_name": "Armenia",
-        "exchange_rate": 126.00682811501596
+        "exchange_rate": 386.49016,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Netherlands Antilles",
@@ -62,7 +78,11 @@
         "code": "ANG",
         "country": "AN",
         "country_name": "Netherlands Antilles",
-        "exchange_rate": 0.5757757188498402
+        "exchange_rate": 1.798022,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Angola",
@@ -75,7 +95,11 @@
         "code": "AOA",
         "country": "AO",
         "country_name": "Angola",
-        "exchange_rate": 267.73162939297123
+        "exchange_rate": 920.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Argentine Peso",
@@ -88,7 +112,11 @@
         "code": "ARS",
         "country": "AR",
         "country_name": "Argentina",
-        "exchange_rate": 273.73899201277953
+        "exchange_rate": 953.2328,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Australian Dollar",
@@ -101,7 +129,11 @@
         "code": "AUD",
         "country": "AU",
         "country_name": "Australia",
-        "exchange_rate": 0.49046485623003194
+        "exchange_rate": 1.485612,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Aruba",
@@ -114,7 +146,11 @@
         "code": "AWG",
         "country": "AW",
         "country_name": "Aruba",
-        "exchange_rate": 0.5750798722044729
+        "exchange_rate": 1.8,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Azerbaijani Manat",
@@ -127,7 +163,11 @@
         "code": "AZN",
         "country": "AZ",
         "country_name": "Azerbaijan",
-        "exchange_rate": 0.5431309904153354
+        "exchange_rate": 1.7,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bosnia-Herzegovina Convertible Mark",
@@ -140,7 +180,11 @@
         "code": "BAM",
         "country": "BA",
         "country_name": "Bosnia and Herzegovina",
-        "exchange_rate": 0.5792408945686901
+        "exchange_rate": 1.76529,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Barbados",
@@ -153,7 +197,11 @@
         "code": "BBD",
         "country": "BB",
         "country_name": "Barbados",
-        "exchange_rate": 0.6389776357827476
+        "exchange_rate": 2,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bangladeshi Taka",
@@ -166,7 +214,11 @@
         "code": "BDT",
         "country": "BD",
         "country_name": "Bangladesh",
-        "exchange_rate": 35.063066134185306
+        "exchange_rate": 119.214403,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bulgarian Lev",
@@ -179,7 +231,11 @@
         "code": "BGN",
         "country": "BG",
         "country_name": "Bulgaria",
-        "exchange_rate": 0.5775776357827476
+        "exchange_rate": 1.76476,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bahraini Dinar",
@@ -192,7 +248,11 @@
         "code": "BHD",
         "country": "BH",
         "country_name": "Bahrain",
-        "exchange_rate": 0.12044888178913737
+        "exchange_rate": 0.376898,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Burundian Franc",
@@ -205,7 +265,11 @@
         "code": "BIF",
         "country": "BI",
         "country_name": "Burundi",
-        "exchange_rate": 914.6779073482428
+        "exchange_rate": 2881.679899,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bermuda",
@@ -218,7 +282,11 @@
         "code": "BMD",
         "country": "BM",
         "country_name": "Bermuda",
-        "exchange_rate": 0.3194888178913738
+        "exchange_rate": 1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Brunei Dollar",
@@ -231,7 +299,11 @@
         "code": "BND",
         "country": "BN",
         "country_name": "Brunei Darussalam",
-        "exchange_rate": 0.4309507987220447
+        "exchange_rate": 1.303687,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bolivian Boliviano",
@@ -244,7 +316,11 @@
         "code": "BOB",
         "country": "BO",
         "country_name": "Bolivia",
-        "exchange_rate": 2.221027108433735
+        "exchange_rate": 6.893999,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Brazilian Real",
@@ -257,7 +333,11 @@
         "code": "BRL",
         "country": "BR",
         "country_name": "Brazil",
-        "exchange_rate": 1.7074430757172254
+        "exchange_rate": 5.6433,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bahamas",
@@ -270,7 +350,11 @@
         "code": "BSD",
         "country": "BS",
         "country_name": "Bahamas",
-        "exchange_rate": 0.3194888178913738
+        "exchange_rate": 1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Bhutan",
@@ -283,7 +367,11 @@
         "code": "BTN",
         "country": "BT",
         "country_name": "Bhutan",
-        "exchange_rate": 23.58349753694581
+        "exchange_rate": 83.799383,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Botswanan Pula",
@@ -296,7 +384,11 @@
         "code": "BWP",
         "country": "BW",
         "country_name": "Botswana",
-        "exchange_rate": 3.3304578896882493
+        "exchange_rate": 13.337365,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Belarusian Ruble",
@@ -309,7 +401,11 @@
         "code": "BYN",
         "country": "BY",
         "country_name": "Belarus",
-        "exchange_rate": 0.6903421845140033
+        "exchange_rate": 3.264857,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Belize Dollar",
@@ -322,7 +418,11 @@
         "code": "BZD",
         "country": "BZ",
         "country_name": "Belize",
-        "exchange_rate": 0.6467572815533981
+        "exchange_rate": 2.010966,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Canadian Dollar",
@@ -335,7 +435,11 @@
         "code": "CAD",
         "country": "CA",
         "country_name": "Canada",
-        "exchange_rate": 0.4741898734177215
+        "exchange_rate": 1.350575,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Congolese Franc",
@@ -348,7 +452,11 @@
         "code": "CDF",
         "country": "CD",
         "country_name": "Congo, Democratic Republic",
-        "exchange_rate": 645.2520459770114
+        "exchange_rate": 2829.073732,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Swiss Franc",
@@ -361,7 +469,11 @@
         "code": "CHF",
         "country": "CH",
         "country_name": "Switzerland",
-        "exchange_rate": 0.299005318669581
+        "exchange_rate": 0.846174,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Chilean Peso",
@@ -374,7 +486,11 @@
         "code": "CLP",
         "country": "CL",
         "country_name": "Chile",
-        "exchange_rate": 247.6451177747544
+        "exchange_rate": 943.33,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Chinese Yuan",
@@ -387,7 +503,11 @@
         "code": "CNY",
         "country": "CN",
         "country_name": "China",
-        "exchange_rate": 2.05121620522222
+        "exchange_rate": 7.0994,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Colombian Peso",
@@ -400,7 +520,11 @@
         "code": "COP",
         "country": "CO",
         "country_name": "Colombia",
-        "exchange_rate": 1165.8486786337146
+        "exchange_rate": 4167.76179,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Costa Rican Colón",
@@ -413,7 +537,11 @@
         "code": "CRC",
         "country": "CR",
         "country_name": "Costa Rica",
-        "exchange_rate": 201.20854501468048
+        "exchange_rate": 517.09269,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Cuba",
@@ -426,7 +554,11 @@
         "code": "CUP",
         "country": "CU",
         "country_name": "Cuba",
-        "exchange_rate": 7.113438421833934
+        "exchange_rate": 25.75,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Cape Verdean Escudo",
@@ -439,7 +571,11 @@
         "code": "CVE",
         "country": "CV",
         "country_name": "Cape Verde",
-        "exchange_rate": 30.580633698037
+        "exchange_rate": 99.524354,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Czech Republic Koruna",
@@ -452,7 +588,11 @@
         "code": "CZK",
         "country": "CZ",
         "country_name": "Czech Republic",
-        "exchange_rate": 6.892924528301887
+        "exchange_rate": 22.572199,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Djiboutian Franc",
@@ -465,7 +605,11 @@
         "code": "DJF",
         "country": "DJ",
         "country_name": "Djibouti",
-        "exchange_rate": 56.89020447284345
+        "exchange_rate": 177.656442,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Danish Krone",
@@ -478,7 +622,11 @@
         "code": "DKK",
         "country": "DK",
         "country_name": "Denmark",
-        "exchange_rate": 2.1662260737458294
+        "exchange_rate": 6.72208,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Dominican Peso",
@@ -491,7 +639,11 @@
         "code": "DOP",
         "country": "DO",
         "country_name": "Dominican Republic",
-        "exchange_rate": 17.61014345490267
+        "exchange_rate": 59.570827,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Algerian Dinar",
@@ -504,7 +656,11 @@
         "code": "DZD",
         "country": "DZ",
         "country_name": "Algeria",
-        "exchange_rate": 39.18619658119658
+        "exchange_rate": 132.85965,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Egyptian Pound",
@@ -517,7 +673,11 @@
         "code": "EGP",
         "country": "EG",
         "country_name": "Egypt",
-        "exchange_rate": 5.002385190654883
+        "exchange_rate": 48.445,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Eritrean Nakfa",
@@ -530,7 +690,11 @@
         "code": "ERN",
         "country": "ER",
         "country_name": "Eritrea",
-        "exchange_rate": 4.793083313389837
+        "exchange_rate": 15,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Ethiopian Birr",
@@ -543,7 +707,11 @@
         "code": "ETB",
         "country": "ET",
         "country_name": "Ethiopia",
-        "exchange_rate": 12.327423445855615
+        "exchange_rate": 110.935018,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Euro",
@@ -556,7 +724,11 @@
         "code": "EUR",
         "country": "EU",
         "country_name": "Euro",
-        "exchange_rate": 3.3
+        "exchange_rate": 0.900993,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Fiji",
@@ -569,7 +741,11 @@
         "code": "FJD",
         "country": "FJ",
         "country_name": "Fiji",
-        "exchange_rate": 0.6573806921675774
+        "exchange_rate": 2.211,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Falkland Islands",
@@ -582,7 +758,11 @@
         "code": "FKP",
         "country": "FK",
         "country_name": "Falkland Islands",
-        "exchange_rate": 0.24471101871101872
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "British Pound Sterling",
@@ -595,7 +775,11 @@
         "code": "GBP",
         "country": "GB",
         "country_name": "United Kingdom",
-        "exchange_rate": 0.2390849863392656
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Georgian Lari",
@@ -608,7 +792,11 @@
         "code": "GEL",
         "country": "GE",
         "country_name": "Georgia",
-        "exchange_rate": 1.089374674916828
+        "exchange_rate": 2.695,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Guernsey",
@@ -621,7 +809,11 @@
         "code": "GGP",
         "country": "GG",
         "country_name": "Guernsey",
-        "exchange_rate": 0.2390849863392656
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Ghanaian Cedi",
@@ -634,7 +826,11 @@
         "code": "GHS",
         "country": "GH",
         "country_name": "Ghana",
-        "exchange_rate": 1.8711795081967215
+        "exchange_rate": 15.613041,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Gibraltar",
@@ -647,7 +843,11 @@
         "code": "GIP",
         "country": "GI",
         "country_name": "Gibraltar",
-        "exchange_rate": 0.24471101871101872
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Gambia",
@@ -660,7 +860,11 @@
         "code": "GMD",
         "country": "GM",
         "country_name": "Gambia",
-        "exchange_rate": 17.232296305604983
+        "exchange_rate": 69.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Guinean Franc",
@@ -673,7 +877,11 @@
         "code": "GNF",
         "country": "GN",
         "country_name": "Guinea",
-        "exchange_rate": 3542.5161157024795
+        "exchange_rate": 8621.168037,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Guatemalan Quetzal",
@@ -686,7 +894,11 @@
         "code": "GTQ",
         "country": "GT",
         "country_name": "Guatemala",
-        "exchange_rate": 2.453726139088729
+        "exchange_rate": 7.714456,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Guyana",
@@ -699,7 +911,11 @@
         "code": "GYD",
         "country": "GY",
         "country_name": "Guyana",
-        "exchange_rate": 67.19519232777635
+        "exchange_rate": 208.72449,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Hong Kong Dollar",
@@ -712,7 +928,11 @@
         "code": "HKD",
         "country": "HK",
         "country_name": "Hong Kong",
-        "exchange_rate": 2.478297124600638
+        "exchange_rate": 7.795707,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Honduran Lempira",
@@ -725,7 +945,11 @@
         "code": "HNL",
         "country": "HN",
         "country_name": "Honduras",
-        "exchange_rate": 7.770336254061461
+        "exchange_rate": 24.83,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Croatian Kuna",
@@ -738,7 +962,11 @@
         "code": "HRK",
         "country": "HR",
         "country_name": "Croatia",
-        "exchange_rate": 2.17768544092334
+        "exchange_rate": 6.78882,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Haiti",
@@ -751,7 +979,11 @@
         "code": "HTG",
         "country": "HT",
         "country_name": "Haiti",
-        "exchange_rate": 31.93497845226782
+        "exchange_rate": 131.487843,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Hungarian Forint",
@@ -764,7 +996,11 @@
         "code": "HUF",
         "country": "HU",
         "country_name": "Hungary",
-        "exchange_rate": 103.2680700555764
+        "exchange_rate": 353.944313,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Indonesian Rupiah",
@@ -777,7 +1013,11 @@
         "code": "IDR",
         "country": "ID",
         "country_name": "Indonesia",
-        "exchange_rate": 4341.300343435158
+        "exchange_rate": 15430.856937,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Israeli New Sheqel",
@@ -790,7 +1030,11 @@
         "code": "ILS",
         "country": "IL",
         "country_name": "Israel",
-        "exchange_rate": 1.0174326409495549
+        "exchange_rate": 3.693394,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Isle of Man",
@@ -803,7 +1047,11 @@
         "code": "IMP",
         "country": "IM",
         "country_name": "Isle of Man",
-        "exchange_rate": 0.2390849863392656
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Indian Rupee",
@@ -816,7 +1064,11 @@
         "code": "INR",
         "country": "IN",
         "country_name": "India",
-        "exchange_rate": 23.28019018252288
+        "exchange_rate": 83.978002,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Iraqi Dinar",
@@ -829,7 +1081,11 @@
         "code": "IQD",
         "country": "IQ",
         "country_name": "Iraq",
-        "exchange_rate": 445.2746827252104
+        "exchange_rate": 1310,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Iranian Rial",
@@ -842,7 +1098,11 @@
         "code": "IRR",
         "country": "IR",
         "country_name": "Iran",
-        "exchange_rate": 13445.31546099391
+        "exchange_rate": 42092.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Icelandic Króna",
@@ -855,7 +1115,11 @@
         "code": "ISK",
         "country": "IS",
         "country_name": "Iceland",
-        "exchange_rate": 35.17918167875648
+        "exchange_rate": 138.3,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Jersey",
@@ -868,7 +1132,11 @@
         "code": "JEP",
         "country": "JE",
         "country_name": "Jersey",
-        "exchange_rate": 0.2390849863392656
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Jamaican Dollar",
@@ -881,7 +1149,11 @@
         "code": "JMD",
         "country": "JM",
         "country_name": "Jamaica",
-        "exchange_rate": 47.30389108981246
+        "exchange_rate": 155.440215,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Jordanian Dinar",
@@ -894,7 +1166,11 @@
         "code": "JOD",
         "country": "JO",
         "country_name": "Jordan",
-        "exchange_rate": 0.2272741379310345
+        "exchange_rate": 0.7087,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Japanese Yen",
@@ -907,7 +1183,11 @@
         "code": "JPY",
         "country": "JP",
         "country_name": "Japan",
-        "exchange_rate": 33.3990851248627
+        "exchange_rate": 143.58521429,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Kenyan Shilling",
@@ -920,7 +1200,11 @@
         "code": "KES",
         "country": "KE",
         "country_name": "Kenya",
-        "exchange_rate": 36.10127252754758
+        "exchange_rate": 129,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Kyrgyzstan",
@@ -933,7 +1217,11 @@
         "code": "KGS",
         "country": "KG",
         "country_name": "Kyrgyzstan",
-        "exchange_rate": 25.75697847449776
+        "exchange_rate": 84.3693,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Cambodian Riel",
@@ -946,7 +1234,11 @@
         "code": "KHR",
         "country": "KH",
         "country_name": "Cambodia",
-        "exchange_rate": 1314.9880478924683
+        "exchange_rate": 4050.767353,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Kiribati",
@@ -959,7 +1251,11 @@
         "code": "KID",
         "country": "KI",
         "country_name": "Kiribati",
-        "exchange_rate": 0.3444487391966978
+        "exchange_rate": 1.485612,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Comorian Franc",
@@ -972,7 +1268,11 @@
         "code": "KMF",
         "country": "KM",
         "country_name": "Comoros",
-        "exchange_rate": 140.30796674178404
+        "exchange_rate": 444.449919,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "North Korea",
@@ -985,7 +1285,11 @@
         "code": "KPW",
         "country": "KP",
         "country_name": "North Korea",
-        "exchange_rate": 363.3822091886608
+        "exchange_rate": 900,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "South Korean Won",
@@ -998,7 +1302,11 @@
         "code": "KRW",
         "country": "KR",
         "country_name": "South Korea",
-        "exchange_rate": 354.3244087302822
+        "exchange_rate": 1335.329084,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Kuwaiti Dinar",
@@ -1011,7 +1319,11 @@
         "code": "KWD",
         "country": "KW",
         "country_name": "Kuwait",
-        "exchange_rate": 0.09727851462116041
+        "exchange_rate": 0.305387,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Cayman Islands",
@@ -1024,7 +1336,11 @@
         "code": "KYD",
         "country": "KY",
         "country_name": "Cayman Islands",
-        "exchange_rate": 0.26586625514403295
+        "exchange_rate": 0.831378,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Kazakhstani Tenge",
@@ -1037,7 +1353,11 @@
         "code": "KZT",
         "country": "KZ",
         "country_name": "Kazakhstan",
-        "exchange_rate": 135.52773130978954
+        "exchange_rate": 482.354338,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Laos",
@@ -1050,7 +1370,11 @@
         "code": "LAK",
         "country": "LA",
         "country_name": "Laos",
-        "exchange_rate": 3144.035333433866
+        "exchange_rate": 22040.641115,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Lebanese Pound",
@@ -1063,7 +1387,11 @@
         "code": "LBP",
         "country": "LB",
         "country_name": "Lebanon",
-        "exchange_rate": 479.5905892542092
+        "exchange_rate": 89352.032642,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Sri Lankan Rupee",
@@ -1076,7 +1404,11 @@
         "code": "LKR",
         "country": "LK",
         "country_name": "Sri Lanka",
-        "exchange_rate": 64.48115025802053
+        "exchange_rate": 298.198344,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Liberia",
@@ -1089,7 +1421,11 @@
         "code": "LRD",
         "country": "LR",
         "country_name": "Liberia",
-        "exchange_rate": 66.11401446428572
+        "exchange_rate": 194.541225,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Lesotho",
@@ -1102,7 +1438,11 @@
         "code": "LSL",
         "country": "LS",
         "country_name": "Lesotho",
-        "exchange_rate": 4.615168198529411
+        "exchange_rate": 17.870965,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Libyan Dinar",
@@ -1115,7 +1455,11 @@
         "code": "LYD",
         "country": "LY",
         "country_name": "Libya",
-        "exchange_rate": 4.510298990710383
+        "exchange_rate": 4.749419,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Moroccan Dirham",
@@ -1128,7 +1472,11 @@
         "code": "MAD",
         "country": "MA",
         "country_name": "Morocco",
-        "exchange_rate": 2.849580365415581
+        "exchange_rate": 9.740414,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Moldovan Leu",
@@ -1141,7 +1489,11 @@
         "code": "MDL",
         "country": "MD",
         "country_name": "Moldova",
-        "exchange_rate": 6.253798724803458
+        "exchange_rate": 17.449052,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Malagasy Ariary",
@@ -1154,7 +1506,11 @@
         "code": "MGA",
         "country": "MG",
         "country_name": "Madagascar",
-        "exchange_rate": 1185.476754894202
+        "exchange_rate": 4560,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Macedonian Denar",
@@ -1167,7 +1523,11 @@
         "code": "MKD",
         "country": "MK",
         "country_name": "Macedonia",
-        "exchange_rate": 16.556621730382293
+        "exchange_rate": 55.522759,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Myanma Kyat",
@@ -1180,7 +1540,11 @@
         "code": "MMK",
         "country": "MM",
         "country_name": "Myanmar",
-        "exchange_rate": 548.9215393073476
+        "exchange_rate": 2098,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Mongolia",
@@ -1193,7 +1557,11 @@
         "code": "MNT",
         "country": "MN",
         "country_name": "Mongolia",
-        "exchange_rate": 870.480656989453
+        "exchange_rate": 3398,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Macanese Pataca",
@@ -1206,7 +1574,11 @@
         "code": "MOP",
         "country": "MO",
         "country_name": "Macau",
-        "exchange_rate": 2.5759038165038004
+        "exchange_rate": 8.013665,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Mauritania",
@@ -1219,7 +1591,11 @@
         "code": "MRU",
         "country": "MR",
         "country_name": "Mauritania",
-        "exchange_rate": 12.245706468711804
+        "exchange_rate": 39.452129,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Mauritian Rupee",
@@ -1232,7 +1608,11 @@
         "code": "MUR",
         "country": "MU",
         "country_name": "Mauritius",
-        "exchange_rate": 13.349740091409606
+        "exchange_rate": 46.06,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Maldives",
@@ -1245,7 +1625,11 @@
         "code": "MVR",
         "country": "MV",
         "country_name": "Maldives",
-        "exchange_rate": 4.910602836879432
+        "exchange_rate": 15.36,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Malawi",
@@ -1258,7 +1642,11 @@
         "code": "MWK",
         "country": "MW",
         "country_name": "Malawi",
-        "exchange_rate": 259.19820145791823
+        "exchange_rate": 1729.881979,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Mexican Peso",
@@ -1271,7 +1659,11 @@
         "code": "MXN",
         "country": "MX",
         "country_name": "Mexico",
-        "exchange_rate": 7.601481670071093
+        "exchange_rate": 20.01974,
+        "type": "regional",
+        "region": "International",
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Malaysian Ringgit",
@@ -1284,7 +1676,11 @@
         "code": "MYR",
         "country": "MY",
         "country_name": "Malaysia",
-        "exchange_rate": 1.240860325992696
+        "exchange_rate": 4.3375,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Mozambican Metical",
@@ -1297,7 +1693,11 @@
         "code": "MZN",
         "country": "MZ",
         "country_name": "Mozambique",
-        "exchange_rate": 15.90947991967573
+        "exchange_rate": 63.874992,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Namibian Dollar",
@@ -1310,7 +1710,11 @@
         "code": "NAD",
         "country": "NA",
         "country_name": "Namibia",
-        "exchange_rate": 4.615168198529411
+        "exchange_rate": 17.870965,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Nigerian Naira",
@@ -1323,7 +1727,11 @@
         "code": "NGN",
         "country": "NG",
         "country_name": "Nigeria",
-        "exchange_rate": 128.41628035046344
+        "exchange_rate": 1603.1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Nicaraguan Córdoba",
@@ -1336,7 +1744,11 @@
         "code": "NIO",
         "country": "NI",
         "country_name": "Nicaragua",
-        "exchange_rate": 11.268947740631162
+        "exchange_rate": 36.83,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Norwegian Krone",
@@ -1349,7 +1761,11 @@
         "code": "NOK",
         "country": "NO",
         "country_name": "Norway",
-        "exchange_rate": 2.804067090217869
+        "exchange_rate": 10.602989,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Nepalese Rupee",
@@ -1362,7 +1778,11 @@
         "code": "NPR",
         "country": "NP",
         "country_name": "Nepal",
-        "exchange_rate": 33.25822330184135
+        "exchange_rate": 134.078572,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "New Zealand Dollar",
@@ -1375,7 +1795,11 @@
         "code": "NZD",
         "country": "NZ",
         "country_name": "New Zealand",
-        "exchange_rate": 0.5156725275475763
+        "exchange_rate": 1.612124,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Omani Rial",
@@ -1388,7 +1812,11 @@
         "code": "OMR",
         "country": "OM",
         "country_name": "Oman",
-        "exchange_rate": 0.12231141805729168
+        "exchange_rate": 0.384879,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Panamanian Balboa",
@@ -1401,7 +1829,11 @@
         "code": "PAB",
         "country": "PA",
         "country_name": "Panama",
-        "exchange_rate": 0.3194888178913738
+        "exchange_rate": 1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Peruvian Nuevo Sol",
@@ -1414,7 +1846,11 @@
         "code": "PEN",
         "country": "PE",
         "country_name": "Peru",
-        "exchange_rate": 1.2536819297478432
+        "exchange_rate": 3.780598,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Papua New Guinea",
@@ -1427,7 +1863,11 @@
         "code": "PGK",
         "country": "PG",
         "country_name": "Papua New Guinea",
-        "exchange_rate": 1.1314454984665963
+        "exchange_rate": 3.959,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Philippine Peso",
@@ -1440,7 +1880,11 @@
         "code": "PHP",
         "country": "PH",
         "country_name": "Philippines",
-        "exchange_rate": 16.02366361556064
+        "exchange_rate": 56.159504,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Pakistani Rupee",
@@ -1453,7 +1897,11 @@
         "code": "PKR",
         "country": "PK",
         "country_name": "Pakistan",
-        "exchange_rate": 52.55228067695181
+        "exchange_rate": 278.113743,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Polish Zloty",
@@ -1466,7 +1914,11 @@
         "code": "PLN",
         "country": "PL",
         "country_name": "Poland",
-        "exchange_rate": 1.2781294624051218
+        "exchange_rate": 3.848513,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Paraguayan Guarani",
@@ -1479,7 +1931,11 @@
         "code": "PYG",
         "country": "PY",
         "country_name": "Paraguay",
-        "exchange_rate": 2293.620670071093
+        "exchange_rate": 7693.733532,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Qatari Rial",
@@ -1492,7 +1948,11 @@
         "code": "QAR",
         "country": "QA",
         "country_name": "Qatar",
-        "exchange_rate": 1.444
+        "exchange_rate": 3.636905,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Romanian Leu",
@@ -1505,7 +1965,11 @@
         "code": "RON",
         "country": "RO",
         "country_name": "Romania",
-        "exchange_rate": 1.3167160256410255
+        "exchange_rate": 4.4792,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Serbian Dinar",
@@ -1518,7 +1982,11 @@
         "code": "RSD",
         "country": "RS",
         "country_name": "Serbia",
-        "exchange_rate": 31.97575159235669
+        "exchange_rate": 105.435,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Russian Ruble",
@@ -1531,7 +1999,11 @@
         "code": "RUB",
         "country": "RU",
         "country_name": "Russia",
-        "exchange_rate": 26.40000583090379
+        "exchange_rate": 90.250844,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Rwandan Franc",
@@ -1544,7 +2016,11 @@
         "code": "RWF",
         "country": "RW",
         "country_name": "Rwanda",
-        "exchange_rate": 313.6704919715888
+        "exchange_rate": 1349.819504,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Saudi Riyal",
@@ -1557,7 +2033,11 @@
         "code": "SAR",
         "country": "SA",
         "country_name": "Saudi Arabia",
-        "exchange_rate": 1.1970862068965518
+        "exchange_rate": 3.753747,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Solomon Islands",
@@ -1570,7 +2050,11 @@
         "code": "SBD",
         "country": "SB",
         "country_name": "Solomon Islands",
-        "exchange_rate": 2.6190144642857143
+        "exchange_rate": 8.330503,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Seychelles",
@@ -1583,7 +2067,11 @@
         "code": "SCR",
         "country": "SC",
         "country_name": "Seychelles",
-        "exchange_rate": 4.286624025974026
+        "exchange_rate": 13.281975,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Sudanese Pound",
@@ -1596,7 +2084,11 @@
         "code": "SDG",
         "country": "SD",
         "country_name": "Sudan",
-        "exchange_rate": 144.9928089907104
+        "exchange_rate": 601.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Swedish Krona",
@@ -1609,7 +2101,11 @@
         "code": "SEK",
         "country": "SE",
         "country_name": "Sweden",
-        "exchange_rate": 2.878319083681539
+        "exchange_rate": 10.25971,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Singapore Dollar",
@@ -1622,7 +2118,11 @@
         "code": "SGD",
         "country": "SG",
         "country_name": "Singapore",
-        "exchange_rate": 0.4309507987220447
+        "exchange_rate": 1.301508,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Saint Helena",
@@ -1635,7 +2135,11 @@
         "code": "SHP",
         "country": "SH",
         "country_name": "Saint Helena",
-        "exchange_rate": 0.24471101871101872
+        "exchange_rate": 0.759343,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Sierra Leone",
@@ -1648,7 +2152,11 @@
         "code": "SLL",
         "country": "SL",
         "country_name": "Sierra Leone",
-        "exchange_rate": 3545.396406717178
+        "exchange_rate": 20969.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Somali Shilling",
@@ -1661,20 +2169,11 @@
         "code": "SOS",
         "country": "SO",
         "country_name": "Somalia",
-        "exchange_rate": 184.72066671172954
-    },
-    {
-        "name": "Seborga",
-        "name_plural": "Seborga spls",
-        "symbol": "₰",
-        "symbol_native": "₰",
-        "decimals": 2,
-        "rounding": 0,
-        "flag": "/assets/Flags/sp.svg",
-        "code": "SPL",
-        "country": "",
-        "country_name": "Seborga",
-        "exchange_rate": 0.3194888178913738
+        "exchange_rate": 570.151937,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Suriname",
@@ -1687,7 +2186,11 @@
         "code": "SRD",
         "country": "SR",
         "country_name": "Suriname",
-        "exchange_rate": 4.297937120190832
+        "exchange_rate": 28.905,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "South Sudan",
@@ -1700,7 +2203,11 @@
         "code": "SSP",
         "country": "SS",
         "country_name": "South Sudan",
-        "exchange_rate": 367.2397507002801
+        "exchange_rate": 130.26,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "São Tomé and Príncipe",
@@ -1713,7 +2220,11 @@
         "code": "STN",
         "country": "ST",
         "country_name": "São Tomé and Príncipe",
-        "exchange_rate": 6.728784343434343
+        "exchange_rate": 22.112811,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "El Salvador",
@@ -1726,7 +2237,11 @@
         "code": "SVC",
         "country": "SV",
         "country_name": "El Salvador",
-        "exchange_rate": 3.5176917354709416
+        "exchange_rate": 8.72897,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Syrian Pound",
@@ -1739,7 +2254,11 @@
         "code": "SYP",
         "country": "SY",
         "country_name": "Syria",
-        "exchange_rate": 412.7088978966797
+        "exchange_rate": 2512.53,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Swaziland",
@@ -1752,7 +2271,11 @@
         "code": "SZL",
         "country": "SZ",
         "country_name": "Swaziland",
-        "exchange_rate": 4.615168198529411
+        "exchange_rate": 17.86,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Thai Baht",
@@ -1765,7 +2288,11 @@
         "code": "THB",
         "country": "TH",
         "country_name": "Thailand",
-        "exchange_rate": 9.564956827330745
+        "exchange_rate": 33.65,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Tajikistan",
@@ -1778,7 +2305,11 @@
         "code": "TJS",
         "country": "TJ",
         "country_name": "Tajikistan",
-        "exchange_rate": 3.113312564250025
+        "exchange_rate": 10.629919,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Turkmenistan",
@@ -1791,7 +2322,11 @@
         "code": "TMT",
         "country": "TM",
         "country_name": "Turkmenistan",
-        "exchange_rate": 1.111363115085536
+        "exchange_rate": 3.5,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Tunisian Dinar",
@@ -1804,7 +2339,11 @@
         "code": "TND",
         "country": "TN",
         "country_name": "Tunisia",
-        "exchange_rate": 3.365
+        "exchange_rate": 3.0535,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Tongan Paʻanga",
@@ -1817,7 +2356,11 @@
         "code": "TOP",
         "country": "TO",
         "country_name": "Tonga",
-        "exchange_rate": 0.7070446110200296
+        "exchange_rate": 2.347617,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Turkish Lira",
@@ -1830,7 +2373,11 @@
         "code": "TRY",
         "country": "TR",
         "country_name": "Turkey",
-        "exchange_rate": 2.6253634485941486
+        "exchange_rate": 33.984902,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Trinidad and Tobago Dollar",
@@ -1843,7 +2390,11 @@
         "code": "TTD",
         "country": "TT",
         "country_name": "Trinidad and Tobago",
-        "exchange_rate": 2.1659610215053764
+        "exchange_rate": 6.758611,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Tuvalu",
@@ -1856,7 +2407,11 @@
         "code": "TVD",
         "country": "TV",
         "country_name": "Tuvalu",
-        "exchange_rate": 0.4309507987220447
+        "exchange_rate": 1.485612,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "New Taiwan Dollar",
@@ -1869,7 +2424,11 @@
         "code": "TWD",
         "country": "TW",
         "country_name": "Taiwan",
-        "exchange_rate": 9.032759663480702
+        "exchange_rate": 32.073,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Tanzanian Shilling",
@@ -1882,7 +2441,11 @@
         "code": "TZS",
         "country": "TZ",
         "country_name": "Tanzania",
-        "exchange_rate": 737.1896785144788
+        "exchange_rate": 2720,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Ukrainian Hryvnia",
@@ -1895,7 +2458,11 @@
         "code": "UAH",
         "country": "UA",
         "country_name": "Ukraine",
-        "exchange_rate": 9.221764908995292
+        "exchange_rate": 41.115761,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Ugandan Shilling",
@@ -1908,7 +2475,11 @@
         "code": "UGX",
         "country": "UG",
         "country_name": "Uganda",
-        "exchange_rate": 1164.8317132552124
+        "exchange_rate": 3715.977024,
+        "type": "regional",
+        "region": "International",
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "US Dollar",
@@ -1921,7 +2492,11 @@
         "code": "USD",
         "country": "US",
         "country_name": "United States",
-        "exchange_rate": 0.3194888178913738
+        "exchange_rate": 1,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Uruguayan Peso",
@@ -1934,7 +2509,11 @@
         "code": "UYU",
         "country": "UY",
         "country_name": "Uruguay",
-        "exchange_rate": 12.57269448698368
+        "exchange_rate": 40.345155,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Uzbekistan Som",
@@ -1947,7 +2526,11 @@
         "code": "UZS",
         "country": "UZ",
         "country_name": "Uzbekistan",
-        "exchange_rate": 3615.1517846624365
+        "exchange_rate": 12655,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Venezuela",
@@ -1960,7 +2543,11 @@
         "code": "VES",
         "country": "VE",
         "country_name": "Venezuela",
-        "exchange_rate": 1647671.5120751588
+        "exchange_rate": 36.597363,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Vietnamese Dong",
@@ -1973,7 +2560,11 @@
         "code": "VND",
         "country": "VN",
         "country_name": "Vietnam",
-        "exchange_rate": 7339.610304544485
+        "exchange_rate": 24740.233667,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Vanuatu",
@@ -1986,7 +2577,11 @@
         "code": "VUV",
         "country": "VU",
         "country_name": "Vanuatu",
-        "exchange_rate": 35.18021102002965
+        "exchange_rate": 118.722,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Samoa",
@@ -1999,7 +2594,28 @@
         "code": "WST",
         "country": "WS",
         "country_name": "Samoa",
-        "exchange_rate": 0.823982831896118
+        "exchange_rate": 2.8,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
+    },
+    {
+        "name": "Seborga",
+        "name_plural": "Seborga spls",
+        "symbol": "₰",
+        "symbol_native": "₰",
+        "decimals": 2,
+        "rounding": 0,
+        "flag": "/assets/Flags/sp.svg",
+        "code": "SPL",
+        "country": "",
+        "country_name": "Seborga",
+        "exchange_rate": 2014.545015,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "CFA Franc BEAC",
@@ -2010,9 +2626,13 @@
         "rounding": 0,
         "flag": "/assets/Flags/xa.svg",
         "code": "XAF",
+        "type": "regional",
+        "region": "International",
         "country": "",
         "country_name": "CFA",
-        "exchange_rate": 179.0132883429645
+        "exchange_rate": 591.012981,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Silver",
@@ -2023,9 +2643,13 @@
         "rounding": 0,
         "flag": "/assets/Flags/xag.svg",
         "code": "XAG",
+        "type": "commodity",
+        "commodity": "Silver",
         "country": "",
         "country_name": "Silver",
-        "exchange_rate": 0.01991178300812364
+        "exchange_rate": 0.03484321,
+        "region": null,
+        "organization": null
     },
     {
         "name": "Gold",
@@ -2036,9 +2660,13 @@
         "rounding": 0,
         "flag": "/assets/Flags/xau.svg",
         "code": "XAU",
+        "type": "commodity",
+        "commodity": "Gold",
         "country": "",
         "country_name": "Gold",
-        "exchange_rate": 0.0003146951243689357
+        "exchange_rate": 0.0003977,
+        "region": null,
+        "organization": null
     },
     {
         "name": "Eastern Caribbean",
@@ -2051,7 +2679,11 @@
         "code": "XCD",
         "country": "",
         "country_name": "Eastern Caribbean",
-        "exchange_rate": 0.8633815453624761
+        "exchange_rate": 2.70255,
+        "type": "regional",
+        "region": "International",
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "IMF",
@@ -2064,7 +2696,11 @@
         "code": "XDR",
         "country": "",
         "country_name": "IMF",
-        "exchange_rate": 0.22821005697906707
+        "exchange_rate": 0.740834,
+        "type": "international",
+        "region": null,
+        "organization": "IMF",
+        "commodity": null
     },
     {
         "name": "CFA Franc BCEAO",
@@ -2077,7 +2713,11 @@
         "code": "XOF",
         "country": "",
         "country_name": "CFA",
-        "exchange_rate": 179.0132883429645
+        "exchange_rate": 591.012981,
+        "type": "regional",
+        "region": "International",
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Palladium",
@@ -2090,7 +2730,11 @@
         "code": "XPD",
         "country": "",
         "country_name": "Palladium",
-        "exchange_rate": 0.000322682655664183
+        "exchange_rate": 0.00107283,
+        "type": "commodity",
+        "region": null,
+        "organization": null,
+        "commodity": "Palladium"
     },
     {
         "name": "CFP",
@@ -2103,7 +2747,11 @@
         "code": "XPF",
         "country": "",
         "country_name": "CFP",
-        "exchange_rate": 33.26807005557639
+        "exchange_rate": 107.517122,
+        "type": "regional",
+        "region": "International",
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Platinum",
@@ -2116,7 +2764,11 @@
         "code": "XPT",
         "country": "",
         "country_name": "Platinum",
-        "exchange_rate": 0.0016087512939817151
+        "exchange_rate": 0.00108759,
+        "type": "commodity",
+        "region": null,
+        "organization": null,
+        "commodity": "Platinum"
     },
     {
         "name": "Yemeni Rial",
@@ -2129,7 +2781,11 @@
         "code": "YER",
         "country": "YE",
         "country_name": "Yemen",
-        "exchange_rate": 79.94226799387442
+        "exchange_rate": 250.324978,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "South African Rand",
@@ -2142,7 +2798,11 @@
         "code": "ZAR",
         "country": "ZA",
         "country_name": "South Africa",
-        "exchange_rate": 4.615168198529411
+        "exchange_rate": 17.769543,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Zambia",
@@ -2155,7 +2815,11 @@
         "code": "ZMW",
         "country": "ZM",
         "country_name": "Zambia",
-        "exchange_rate": 6.338178038323833
+        "exchange_rate": 26.262609,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
     },
     {
         "name": "Zimbabwean Dollar",
@@ -2168,6 +2832,61 @@
         "code": "ZWL",
         "country": "ZW",
         "country_name": "Zimbabwe",
-        "exchange_rate": 103.16690440823734
+        "exchange_rate": 322,
+        "type": "national",
+        "region": null,
+        "organization": null,
+        "commodity": null
+    },
+    {
+        "name": "Bitcoin",
+        "name_plural": "Bitcoins",
+        "symbol": "₿",
+        "symbol_native": "₿",
+        "decimals": 8,
+        "rounding": 0,
+        "flag": "/assets/Flags/btc.svg",
+        "code": "BTC",
+        "type": "national",
+        "commodity": null,
+        "country": "",
+        "country_name": "Cryptocurrency",
+        "exchange_rate": 0.000017546193,
+        "region": null,
+        "organization": null
+    },
+    {
+        "name": "Ethereum",
+        "name_plural": "Ethereums",
+        "symbol": "Ξ",
+        "symbol_native": "Ξ",
+        "decimals": 18,
+        "rounding": 0,
+        "flag": "/assets/Flags/eth.svg",
+        "code": "ETH",
+        "type": "national",
+        "commodity": null,
+        "country": "",
+        "country_name": "Cryptocurrency",
+        "exchange_rate": 0.000417883753,
+        "region": null,
+        "organization": null
+    },
+    {
+        "name": "Tether",
+        "name_plural": "Tethers",
+        "symbol": "₮",
+        "symbol_native": "₮",
+        "decimals": 2,
+        "rounding": 0,
+        "flag": "/assets/Flags/usdt.svg",
+        "code": "USDT",
+        "type": "national",
+        "commodity": null,
+        "country": "",
+        "country_name": "Cryptocurrency",
+        "exchange_rate": 1.000027,
+        "region": null,
+        "organization": null
     }
 ]
