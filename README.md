@@ -19,6 +19,8 @@ The `currencies.json` file includes an array of objects, each representing a cur
 - `country_name`: The full name of the country.
 - `exchange_rate`: The current exchange rate of the currency relative to a base currency (e.g., USD).
 
+If you need the flags, they can be found here: https://github.com/HthSolid/flags-worldwide-svg
+
 ### Example entry:
 ```json
 {
